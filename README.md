@@ -1,7 +1,6 @@
 ## Progressive web app (PWA)
 *Movie search PWA using The Movie Database (TMDB) API*
 
-___
 ## Installation
 
 __Requirements__
@@ -14,7 +13,6 @@ __Project__
 	$ git clone https://github.com/francois-lp/progressive-web-app
 ```
 
-___
 ## Notes
 __TheMovieDB API (search example)__
 
@@ -37,7 +35,6 @@ __PWA tests__
 *Generate report : check "Progressive Web App" and "Mobile*
 1. Test app on the mobile device emulator
 
-___
 ## Links
 
 __Tutorial__
